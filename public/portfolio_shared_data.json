@@ -1,0 +1,78 @@
+{
+    "basic_info": {
+      "name": "Poulomi Mitra",
+      "titles": [ "Experienced Accountant", "CMA USA", "Financial Analyst" ],
+      "social": [
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/poulomi-m-281353279/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/poulomi.mitra?igsh=MTExbGpkdmtnMmp0bA==",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "US GAAP principles",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "Cash Flow Management",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "QuickBooks",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "Cost Accounting",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "Analytic reasoning",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Month-End Closing",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "General Ledger",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Jmeter",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MS Office",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
